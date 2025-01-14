@@ -1,0 +1,48 @@
+weights/official_yolov3_weights_pytorch.pth
+.vscode/
+weights/resnet101.pt
+weights/yolov3.pt
+weights/model-f46da743.pt
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyd
+
+# Notebooks
+*.ipynb
+*.pynb
+*.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+.virtualenv/
+.venv/
+
+# IDE / editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*~
+
+# Profiling data
+*.prof
+
+old/
+

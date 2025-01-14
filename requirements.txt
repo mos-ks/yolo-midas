@@ -1,0 +1,13 @@
+numpy
+pyYAML
+opencv-python
+imagehash
+seaborn
+ijson
+pycocotools
+torch
+torchvision
+tqdm
+ultralytics
+Pillow
+tensorboard

@@ -1,0 +1,4 @@
+classes = 8
+train = /app/yolo-midas-master/data/customdata/train.txt
+valid = /app/yolo-midas-master/data/customdata/test.txt
+names = /app/yolo-midas-master/data/customdata/custom.names
